@@ -1,11 +1,6 @@
 body {
     background-image: url(../images/y-so-serious-white.png);
-    background-position: center center fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background-repeat: inherit;
 }
 
 img {
@@ -14,7 +9,7 @@ img {
 }
 
 p {
-    line-height: 35px;
+    line-height: 70px;
 }
 
 .navbar-brand {
@@ -27,4 +22,8 @@ h1 {
 
 .footer-copyright {
     color: white;
+}
+
+.card {
+    width: 100%;
 }
