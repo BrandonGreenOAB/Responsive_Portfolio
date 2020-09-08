@@ -1,0 +1,9 @@
+body {
+    background-image: url(../images/y-so-serious-white.png);
+    background-position: center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
