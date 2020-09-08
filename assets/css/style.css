@@ -7,3 +7,24 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
 }
+
+img {
+    float: left;
+    margin-right: 15px;
+}
+
+p {
+    line-height: 35px;
+}
+
+.navbar-brand {
+    color: seagreen;
+}
+
+h1 {
+    color: seagreen;
+}
+
+.footer-copyright {
+    color: white;
+}
