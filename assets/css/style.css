@@ -7,6 +7,10 @@ body {
     float: left;
 }
 
+.d-flex {
+    align-content: center;
+}
+
 image {
     position: relative;
 }
@@ -15,10 +19,7 @@ image {
     font-family: 'Rubik', sans-serif;
     line-height: 18px;
 }
-.absolute {
-    position: absolute;
-    z-index: 1;
-}
+
 .navbar-brand {
     font-family: 'Rubik', sans-serif;
     color: seagreen;
@@ -71,11 +72,13 @@ h1, .topHeader {
     background-color: seagreen;
     font-family: 'Rubik', sans-serif;
     height: 75px;
+    text-align: center;
+    font-size: 18px;
     color: white;
     position: absolute;
     bottom: 20px;
     width: 200px;
-    padding-top: 25px;
+    padding-top: 15px;
 }
 
 .navbar {
