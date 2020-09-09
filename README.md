@@ -13,3 +13,7 @@ Use this page to learn about me and the projects I've been working on.
 ### Project Status
 
 This website will be built on and tweaked. progress is roughly 10% done. There are a couple more months of knowledge to be gained in order to make this site more solid and smooth for employers to view my skill.
+
+### Validation Process
+
+
