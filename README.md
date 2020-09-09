@@ -23,6 +23,12 @@ This website will be built on and tweaked. progress is roughly 10% done. There a
 ![portfolio](assets/images/validationport3.PNG)
 ![portfolio](assets/images/validationcontact1.PNG)
 ![portfolio](assets/images/validationcontact2.PNG)
+![validated](assets/images/page1.PNG)
+![validated](assets/images/page2.PNG)
+I could not figure out how to get rid of this laster error below
+![validated](assets/images/page3.PNG)
+
+
 
 I had to remove <i tags inside my hrefs on every .html
 
