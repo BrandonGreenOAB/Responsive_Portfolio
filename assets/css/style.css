@@ -30,6 +30,10 @@ h1, .topHeader {
     font-size: 28px;
 }
 
+.nav-link {
+    font-family: 'Rubik', sans-serif;
+}
+
 .footer-copyright {
     color: white;
 }
