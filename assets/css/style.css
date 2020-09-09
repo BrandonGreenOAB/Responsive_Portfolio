@@ -10,6 +10,11 @@ body {
 image {
     position: relative;
 }
+
+#aboutMe {
+    font-family: 'Rubik', sans-serif;
+    line-height: 18px;
+}
 .absolute {
     position: absolute;
     z-index: 1;
@@ -18,8 +23,10 @@ image {
     color: seagreen;
 }
 
-h1 {
+h1, .topHeader {
+    font-family: 'Rubik', sans-serif;
     color: seagreen;
+    font-size: 28px;
 }
 
 .footer-copyright {
@@ -33,15 +40,11 @@ h1 {
 .footer {
     position: fixed;
     left: 0;
-    padding-top: 10px;
+    padding-top: 5px;
     bottom: 0;
     width: 100%;
     text-align: center;
     background-image: linear-gradient(rgb(173, 167, 167), seagreen)
-}
-
-.mt-3 {
-    font-size: 28px;
 }
 
 .cardContain {
@@ -52,13 +55,22 @@ h1 {
 .image-text {
     text-align: center;
     background-color: white;
-    font: ;
-    font-size: ;
-    padding: ;
+    font-family: 'Rubik', sans-serif;
     width: 150px;
     position: absolute;
     z-index: 1;
     bottom: 90px;
+}
+
+.banner {
+    background-color: seagreen;
+    font-family: 'Rubik', sans-serif;
+    height: 75px;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    width: 200px;
+    padding-top: 25px;
 }
 
 .navbar {
@@ -67,9 +79,15 @@ h1 {
 
 .fab {
     color: darkgray;
+    margin-right: 5px;
 }
 
 #socials {
     font-size: 20px;
     font-family: 'Rubik', sans-serif;
+}
+
+#submit {
+    color: black;
+    background-color: seagreen;
 }
