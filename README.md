@@ -16,4 +16,16 @@ This website will be built on and tweaked. progress is roughly 10% done. There a
 
 ### Validation Process
 
+![index](assets/images/validation1.PNG)
+![indexcont](assets/images/validation2.PNG)
+![portfolio](assets/images/validationport1.PNG)
+![portfolio](assets/images/validationport2.PNG)
+![portfolio](assets/images/validationport3.PNG)
+![portfolio](assets/images/validationcontact1.PNG)
+![portfolio](assets/images/validationcontact2.PNG)
 
+I had to remove <i tags inside my hrefs on every .html
+
+this required removing one at a time and ensureing icons and links still worked.
+
+On some errors such as the second one and other it was simply renaming or redefining something. The error in question the name of the file had spaces and I had to remove them.
