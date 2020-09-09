@@ -33,11 +33,11 @@ h1 {
 .footer {
     position: fixed;
     left: 0;
-    padding-top: 25px;
+    padding-top: 10px;
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-image: linear-gradient(black, seagreen)
+    background-image: linear-gradient(rgb(173, 167, 167), seagreen)
 }
 
 .mt-3 {
@@ -59,4 +59,16 @@ h1 {
     position: absolute;
     z-index: 1;
     bottom: 90px;
+}
+
+.navbar {
+    background-image: linear-gradient(rgb(173, 167, 167), seagreen)
+}
+
+.fab {
+    color: darkgray;
+}
+
+#socials {
+    font-size: 20px;
 }
