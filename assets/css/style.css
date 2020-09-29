@@ -15,7 +15,7 @@ image {
     position: relative;
 }
 
-#aboutMe {
+.aboutMe {
     font-family: 'Rubik', sans-serif;
     line-height: 18px;
 }
