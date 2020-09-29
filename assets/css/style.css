@@ -46,6 +46,10 @@ h1, .topHeader {
     font-size: 28px;
 }
 
+.topHeader {
+    padding-top: 20px;
+}
+
 .nav-link {
     font-family: 'Rubik', sans-serif;
 }
