@@ -29,6 +29,12 @@ image {
     line-height: 18px;
 }
 
+.repo, .repo2 {
+    font-family: 'Rubik', sans-serif;
+    line-height: 18px;
+    color: rgb(112, 36, 36);
+}
+
 .navbar-brand {
     font-family: 'Rubik', sans-serif;
     color: rgb(112, 36, 36);
