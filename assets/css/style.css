@@ -1,10 +1,19 @@
 body {
-    background-image: url(../images/y-so-serious-white.png);
+    background-image: url(../images/796854.jpg);
     background-repeat: inherit;
 }
 
 #pfp {
     float: left;
+}
+
+.container {
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.mainBox {
+    border-radius: 10px;
 }
 
 .d-flex {
@@ -22,12 +31,12 @@ image {
 
 .navbar-brand {
     font-family: 'Rubik', sans-serif;
-    color: seagreen;
+    color: rgb(112, 36, 36);
 }
 
 h1, .topHeader {
     font-family: 'Rubik', sans-serif;
-    color: seagreen;
+    color: rgb(112, 36, 36);
     font-size: 28px;
 }
 
@@ -50,7 +59,7 @@ h1, .topHeader {
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-image: linear-gradient(rgb(173, 167, 167), seagreen)
+    background-image: linear-gradient(rgb(173, 167, 167), rgb(112, 36, 36))
 }
 
 .cardContain {
@@ -69,7 +78,7 @@ h1, .topHeader {
 }
 
 .banner {
-    background-color: seagreen;
+    background-color: rgb(112, 36, 36);
     font-family: 'Rubik', sans-serif;
     height: 50px;
     text-align: center;
@@ -94,7 +103,7 @@ h1, .topHeader {
 }
 
 .navbar {
-    background-image: linear-gradient(rgb(173, 167, 167), seagreen)
+    background-image: linear-gradient(rgb(173, 167, 167), rgb(112, 36, 36))
 }
 
 .fab {
@@ -109,5 +118,5 @@ h1, .topHeader {
 
 #submit {
     color: black;
-    background-color: seagreen;
+    background-color: rgb(112, 36, 36);
 }
