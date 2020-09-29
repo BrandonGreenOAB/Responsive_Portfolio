@@ -27,6 +27,7 @@ image {
 .aboutMe {
     font-family: 'Rubik', sans-serif;
     line-height: 18px;
+    padding-bottom: 5px;
 }
 
 .repo, .repo2 {
@@ -113,7 +114,7 @@ h1, .topHeader {
 }
 
 .navbar {
-    background-image: linear-gradient(rgb(173, 167, 167), rgb(112, 36, 36))
+    background-image: linear-gradient(rgb(173, 167, 167), rgb(112, 36, 36));
 }
 
 .fab {
