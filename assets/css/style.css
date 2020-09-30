@@ -30,6 +30,13 @@ image {
     padding-bottom: 5px;
 }
 
+.circle {
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    border-radius: 100px;
+}
+
 .repo, .repo2 {
     font-family: 'Rubik', sans-serif;
     line-height: 18px;
@@ -61,6 +68,11 @@ h1, .topHeader {
 
 .card {
     width: 100%;
+}
+
+.mt-3 {
+    padding-bottom: 50px;
+    padding-top: 40px
 }
 
 .footer {
@@ -96,21 +108,27 @@ h1, .topHeader {
     font-size: 18px;
     color: white;
     position: absolute;
-    bottom: 20px;
+    bottom: 60px;
     width: 200px;
     padding-top: 15px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
 }
 
 .repo {
     position: absolute;
-    left: 235px;
+    margin-left: 18%;
     margin-bottom: 10px;
+    font-size: 25px;
 }
 
 .repo2 {
     position: absolute;
-    right: 235px;
+    margin-left: 68%;
     margin-bottom: 10px;
+    font-size: 25px;
 }
 
 .navbar {
