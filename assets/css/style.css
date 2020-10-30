@@ -36,7 +36,9 @@ image {
   line-height: 18px;
   padding-bottom: 5px;
 }
-
+.circle:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 .circle {
   border-style: solid;
   border-color: black;
@@ -67,6 +69,12 @@ h1,
   font-size: 28px;
   width: 100%;
   margin-bottom: 2%;
+}
+.topHeaderIndex {
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: black;
+  font-size: 28px;
 }
 
 .nav-link {
