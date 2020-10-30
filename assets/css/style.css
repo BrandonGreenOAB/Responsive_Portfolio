@@ -35,6 +35,7 @@ image {
   font-family: "Rubik", sans-serif;
   line-height: 18px;
   padding-bottom: 5px;
+  margin-bottom: 5px;
 }
 .circle:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
